@@ -38,9 +38,7 @@ from test_background import pkl_dump, test_obj_dict, run_test_dict, run_test
 ```
 
 ### Import `data.csv` from the `data` folder
-
-This is the same data you saw in the API and Pandas checkpoint yesterday
-
+Do some investigating of the dataset
 
 ```python
 # your code here
